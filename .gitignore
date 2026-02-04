@@ -1,0 +1,3 @@
+# Ingnore local-certs
+/local-certs/*
+/_site/local-certs/*
